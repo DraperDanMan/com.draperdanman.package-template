@@ -1,0 +1,15 @@
+{
+  "name": "com.draperdanman.package-template",
+  "displayName": "Package Template",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "description": "An empty package that contains stubbed files and folders of Unity Package Manager (UPM) Package.",
+  "dependencies": {
+    
+  },
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/burst.git",
+    "type": "git",
+    "revision": "e1ba64a3c4edd8d98c9d0f4578f114b61199122c"
+  }
+}
