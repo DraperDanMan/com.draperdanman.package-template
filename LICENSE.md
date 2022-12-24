@@ -1,4 +1,4 @@
-pacakge-template copyright © 2023 Daniel Draper
+pacakge-template copyright © 2022 Daniel Draper
 
 MIT License
 

@@ -17,6 +17,6 @@ https://docs.unity3d.com/Manual/CustomPackages.html
 
 ## Licensing
 
-MIT License Copyright © 2023 Daniel Draper
+MIT License Copyright © 2022 Daniel Draper
 
 For licensing details see [LICENSE.md](LICENSE.md)
