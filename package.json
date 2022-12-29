@@ -5,7 +5,7 @@
   "unity": "2019.4",
   "description": "An empty package that contains stubbed files and folders of Unity Package Manager (UPM) Package.",
   "dependencies": {
-    
+    "com.unity.test-framework": "1.1.31"
   },
   "repository": {
     "url": "https://github.cds.internal.unity3d.com/unity/burst.git",
